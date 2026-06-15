@@ -2,7 +2,7 @@
 
 Interactive web map published via GitHub Pages.
 
-**Live map:** https://alberto98gallodot.github.io/Habitat-mapping/
+**Live map:** https://alberto98gallodot.github.io/Habitat-mapping-Wet-tropics/
 
 ## Overview
 Habitat mapping and conservation gap analysis for Cairns Regional LGA (Queensland), focusing on the Southern Cassowary (*Casuarius casuarius johnsonii*) as an indicator species for the Wet Tropics rainforest ecosystem. Analysis assesses the proportion of Essential Habitat formally protected under Queensland legislation.
